@@ -1,5 +1,6 @@
 #leftbox {
 	position : fixed;
+	width : 310px;
 	top : 10px;
 	left : 10px;
 }
