@@ -11,3 +11,7 @@
 	clear : both;
 	float : right;
 }
+
+li {
+	margin-bottom : 2px;
+}
