@@ -1,7 +1,11 @@
-#imagebox {
+#leftbox {
 	position : fixed;
-	z-index : 1000;
-	left : 0;
-	top : 0;
-	margin-right : 50px;
+	
+}
+
+#rightbox {
+	margin-left : 300px;
+	position : relative;
+	clear : both;
+	float : right;
 }
