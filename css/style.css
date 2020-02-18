@@ -1,10 +1,11 @@
 #leftbox {
 	position : fixed;
-	
+	top : 10px;
+	left : 10px;
 }
 
 #rightbox {
-	margin-left : 300px;
+	margin-left : 310px;
 	position : relative;
 	clear : both;
 	float : right;
