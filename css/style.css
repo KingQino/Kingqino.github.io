@@ -1,5 +1,7 @@
 #imagebox {
 	position : fixed;
-	float : left;
+	z-index : 1000;
+	left : 0;
+	top : 0;
 	margin-right : 50px;
 }
