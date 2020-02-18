@@ -1,7 +1,11 @@
+#imagebox {
+	margin-left: 20px;
+}
+
 #leftbox {
 	position : fixed;
 	width : 310px;
-	top : 10px;
+	top : 20px;
 	left : 10px;
 }
 
@@ -13,10 +17,29 @@
 }
 
 li {
-	margin-bottom : 2px;
+	margin-bottom : 5px;
 }
 
 ol {
 	font-family : Times New Roman;
 	font-size : 15pt;
+}
+
+.onementor {
+	margin-right : 10px;
+}
+
+.onenav {
+	text-align:center;
+	margin-left: 45px;
+	width:200px;
+	height: 50px;
+	margin-top: 30px;
+	font-size: 20pt;
+	background-color: #CCCCCC;
+	padding-top: 10px;
+}
+
+.onav {
+	text-decoration: none;
 }
