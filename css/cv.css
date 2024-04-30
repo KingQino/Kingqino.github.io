@@ -22,6 +22,10 @@ body {
     border-radius: 80%; /* Apply rounded corners for a circular shape */
 }
 
+.center {
+    text-align: center;
+}
+
 h1, h2, h3 {
     margin-bottom: 10px;
 }
